@@ -1,0 +1,25 @@
+	nav{	
+		border-style: solid;
+		color: white;
+		background-color: black;
+		padding-right: 220px;
+		padding-top: px;
+		padding-bottom: 20px;
+		height: 100px;
+		gap: 100px;
+		}
+	
+	h1{
+		text-align: center;
+		}
+	nav{
+		display: flex;
+		align-items: ;
+		justify-content: ;
+		flex-direction: ;
+		text-decoration: none;
+		pointer-events: none;
+		
+		}
+	img{
+		width: 20px;
