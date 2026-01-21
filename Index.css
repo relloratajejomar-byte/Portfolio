@@ -17,8 +17,6 @@
     position: fixed;
     top: 0;
     background: lightgreen;
-    backdrop-filter: blur(8px);
-    z-index: 100;
   }
 
   nav h1 {
@@ -52,9 +50,6 @@
     display: flex;
     align-items: center;
     padding-left: 80px;
-    background: 
-      linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),
-      url('https://images.unsplash.com/photo-1506744038136-46273834b3fb') center/cover no-repeat;
   }
 
   .hero h1 {
